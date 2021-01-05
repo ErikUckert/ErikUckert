@@ -6,19 +6,19 @@ My name is Erik Uckert and I'm a Web Dev Passionate from Berlin / Germany. I'm a
 ---
 ***What am I offering?***
 
-I try to craft **simple** solutions with the minimum of technology needed for nice, neat and **beautiful** applications. 
+- I try to craft **simple** solutions with the minimum of technology needed for nice, neat and **beautiful** applications. 
 
 ***Isn't simple just ordinary?***
 
-No! There is nothing wrong with using the absolute **minimum** on tools to craft a **solution** you own to a problem you fully understand.
+- No! There is nothing wrong with using the absolute **minimum** on tools to craft a **solution** you own to a problem you fully understand.
 
 ***And why does it have to be beautiful, if simplicity does all the magic?***
 
-Because simplicity itself is **beautiful** and my (and probably your) life is to short for dealing with all these unpleasant **applications** out there.
+- Because simplicity itself is **beautiful** and my (and probably your) life is to short for dealing with all these unpleasant **applications** out there.
 
 ***So I'm kind of a warlock, who does have the answer to all dev & design questions everyone else fails at?***
 
-Hell No! I'm just trying to get shit done in a way I can be proud of and with an outcome which is useful and pleasant.
+- Hell No! I'm just trying to get shit done in a way I can be proud of and with an outcome which is useful and pleasant.
 
 ## 🛠️ TECH **STACK**
 ---
