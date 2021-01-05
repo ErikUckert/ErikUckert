@@ -3,7 +3,7 @@
 My name is Erik Uckert and I'm a Web Dev Passionate from Berlin / Germany. I'm also a Self Driving Car Engineer (Udacity Alumni) and Application Engineer, currently working at AVL.
 
 
-## 🧑‍💻 ERIK**UCKERT** | DEV&DESIGN
+## 🧑‍💻 ERIK**UCKERT**|DEV&DESIGN
 
 ***What am I offering?***
 
