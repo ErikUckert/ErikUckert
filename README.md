@@ -1,23 +1,27 @@
-## 👋 Hi there 
-
-<!--
-**ErikUckert/ErikUckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 HI **THERE**
 ---
 #### My name is Erik Uckert and I'm a Web Dev Passionate from Berlin / Germany. I'm also a Self Driving Car Engineer (Udacity Alumni) and Application Engineer, currently working at AVL.
 
-## 🛠️ Tech Stack
+## 🧑‍💻 ERIK**UCKERT** | DEV&DESIGN
+***What am I offering?***
+
+I try to craft **simple** solutions with the minimum of technology needed for nice, neat and **beautiful** applications. 
+
+***Isn't simple just ordinary?***
+
+No! There is nothing wrong with using the absolute **minimum** on tools to craft a **solution** you own to a problem you fully understand.
+
+***And why does it have to be beautiful, if simplicity does all the magic?***
+
+Because simplicity itself is **beautiful** and my (and probably your) life is to short for dealing with all these unpleasant **applications** out there.
+
+***So I'm kind of a warlock, who does have the answer to all dev & design questions everyone else fails at?***
+
+Hell No! I'm just trying to get shit done in a way I can be proud of and with an outcome which is useful and pleasant.
+
+---
+
+## 🛠️ TECH **STACK**
 ---
 ![](https://img.shields.io/badge/Structural-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
