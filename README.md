@@ -1,6 +1,6 @@
 👋 HI **THERE**
 
-My name is Erik Uckert and I'm an Engineer for Applicative Software Solutions at AVL Germany. My focus is on Automation, Autonomous Driving and I have a serious passion for Web Development.
+My name is Erik and I'm an Senior Engineer for Applicative Software Solutions at AVL Germany. My focus is on Automation, Autonomous Driving and I have a serious passion for Web Development.
 
 
 🧑‍💻 ERIK**UCKERT** | DEV&DESIGN
