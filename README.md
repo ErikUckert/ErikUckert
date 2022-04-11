@@ -16,4 +16,5 @@ My name is Erik and I'm an Senior Engineer for Applicative Software Solutions at
 ![](https://img.shields.io/badge/Frontend-ANGULAR-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-VUE.JS-informational?style=flat&logo=vue-dot-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Backend-FLASK-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-FASTAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Documentation-MARKDOWN-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
